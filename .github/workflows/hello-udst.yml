@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 9d025bc811f63a4106d885e825c4d7fb7e83a8c4
 name: hello-udst
 on: push
 jobs:
